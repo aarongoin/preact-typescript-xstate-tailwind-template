@@ -1,4 +1,4 @@
-# test-template
+# preact-typescript-xstate-tailwind-template
 
 Includes the following libs:
 

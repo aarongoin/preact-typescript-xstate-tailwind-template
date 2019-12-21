@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "test-template",
-  "version": "0.0.0",
+  "name": "preact-typescript-xstate-tailwind-template",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "build": "preact build",
