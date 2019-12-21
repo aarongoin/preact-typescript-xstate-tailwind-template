@@ -3,8 +3,11 @@
 Includes the following libs:
 
 preact
+
 preact-router
+
 @xstate/fsm
+
 tailwindcss
 
 ## CLI Commands
