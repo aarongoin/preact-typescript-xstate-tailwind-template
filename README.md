@@ -6,6 +6,8 @@ preact
 
 preact-router
 
+preact-css-transition-group
+
 @xstate/fsm
 
 tailwindcss
